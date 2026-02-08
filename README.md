@@ -14,7 +14,7 @@
 
 ## GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-<!--![](https://github-profile-trophy.vercel.app/?username=patrick-thadeus01&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
+![](https://github-profile-trophy.vercel.app/?username=patrick-thadeus01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
